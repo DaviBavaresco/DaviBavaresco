@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente estou procurando estágio
+- 🔭 Atualmente estou a procura de estágio
 - 🌱 Estudando Java
 - 📝 Estou cursando Sistemas para internet no IFRS
 
