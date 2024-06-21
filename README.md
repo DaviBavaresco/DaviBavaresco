@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente estagiando na Sentinela Secutiry
+
 - 🌱 Estudando Java
 - 📝 Estou cursando Sistemas para internet no IFRS
 
